@@ -151,6 +151,13 @@ h5 {
   font-family: "McLaren", cursive;
 }
 
+#match{
+  width: 200px;
+  height: 100px;
+  font-family: 'Yeon Sung', cursive;
+  font-size: 60px;
+}
+
 .footer h3 {
   color: white;
   text-align: center;
